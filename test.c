@@ -3,6 +3,6 @@
 void main()
 {
 	printf("Hello\n");
-	printf("eiei\n");
-	printf("Hello Pongz");
+	printf("eiei eieieieiei\n");
+	printf("Hello Pongzeieieieiei");
 }
